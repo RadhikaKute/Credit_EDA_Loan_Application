@@ -16,6 +16,6 @@ The Aim is to identify patterns which indicate if a client has difficulty paying
 To understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 
 ## Notebooks:
-1. <a href="" target="_blank">Python Commented File.</a>
-2. <a href="" target="_blank">Presentation PDF.</a>
-3. <a href="" target="_blank">README File.</a>
+1. <a href="Credit_EDA_Assignment_Radhika.ipynb" target="_blank">Python Commented File.</a>
+2. <a href="Credit_EDA_PPT_Radhika.pdf" target="_blank">Presentation PDF.</a>
+3. <a href="https://radhikakute.github.io/Credit_EDA_Loan_Application/" target="_blank">README File.</a>
