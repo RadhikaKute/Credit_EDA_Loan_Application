@@ -1,4 +1,5 @@
 # Credit_EDA_Loan_Application
+
 ## Problem Statement:
 Analysing Patterns present in the data using EDA to ensure that the applicants capable of repaying the loan are not rejected.
 
