@@ -18,5 +18,5 @@ To understand the driving factors (or driver variables) behind loan default, i.e
 
 ## Notebooks:
 1. <a href="Credit_EDA_Assignment_Radhika.ipynb" target="_blank">Python Commented File.</a>
-2. <a href="Credit_EDA_PPT_Radhika.pdf" target="_blank">Presentation PDF.</a>
+2. <a href="https://radhikakute.github.io/Credit_EDA_Loan_Application/Credit_EDA_PPT_Radhika.pdf" target="_blank">Presentation PDF.</a>
 3. <a href="https://radhikakute.github.io/Credit_EDA_Loan_Application/" target="_blank">README File.</a>
